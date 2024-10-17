@@ -2,8 +2,7 @@
 # ApkSmith - 0.1.0
 
 [![PyPI version](https://badge.fury.io/py/apksmith.svg)](https://pypi.org/project/apksmith/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yourusername/apksmith/blob/main/LICENSE)
-[![Downloads](https://pepy.tech/badge/apksmith)](https://pepy.tech/project/apksmith)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/joaoescribano/apksmith/blob/main/LICENSE)
 
 **ApkSmith** is a powerful automation tool designed to streamline APK manipulation processes. Whether you're working on bypassing certificate pinning, injecting Frida-objection, or signing your APK, ApkSmith handles it all with ease. From downloading APKs via ADB to creating keystores and performing zipalign, ApkSmith makes complex APK tasks a breeze.
 
@@ -28,7 +27,7 @@ pip install apksmith
 
 ## Full Command Reference
 
-For a detailed list of commands and options, see the [full documentation](https://github.com/yourusername/apksmith/wiki).
+For a detailed list of commands and options, see the [full documentation](https://github.com/joaoescribano/apksmith/wiki).
 
 ## Why ApkSmith?
 
@@ -40,7 +39,7 @@ Contributions are welcome!
 
 ## License
 
-ApkSmith is licensed under the [MIT License](https://github.com/yourusername/apksmith/blob/main/LICENSE).
+ApkSmith is licensed under the [MIT License](https://github.com/joaoescribano/apksmith/blob/main/LICENSE).
 
 ---
 Happy Hacking with ApkSmith! 🔨📱
